@@ -1,0 +1,7 @@
+D:\Users\1213-3\Documents\2-ИСП\работы с лекций\Structure\bin\Debug\Structure.exe.config
+D:\Users\1213-3\Documents\2-ИСП\работы с лекций\Structure\bin\Debug\Structure.exe
+D:\Users\1213-3\Documents\2-ИСП\работы с лекций\Structure\bin\Debug\Structure.pdb
+D:\Users\1213-3\Documents\2-ИСП\работы с лекций\Structure\obj\Debug\Structure.csproj.AssemblyReference.cache
+D:\Users\1213-3\Documents\2-ИСП\работы с лекций\Structure\obj\Debug\Structure.csproj.CoreCompileInputs.cache
+D:\Users\1213-3\Documents\2-ИСП\работы с лекций\Structure\obj\Debug\Structure.exe
+D:\Users\1213-3\Documents\2-ИСП\работы с лекций\Structure\obj\Debug\Structure.pdb
